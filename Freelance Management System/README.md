@@ -129,19 +129,7 @@ This project was built using React, Redux, Sass, HTML, JavaScript, Rest API, Nod
 
 ### Setup
 
-The project repository can be found in [GitHub link](https://github.com/zuhedshaikh95/fiverr-clone) or just clone the project using this command.
 
-```
-Using HTTPS
-
-# git clone https://github.com/zuhedshaikh95/fiverr-clone.git
-```
-
-- Open terminal on your workspace with
-
-```
-cd /home/workspace/fiverr-clone
-```
 
 ## Install
 
@@ -228,15 +216,3 @@ e.g. Cloudinary preset name from your cloudinary dashboard settings -> Uploads
 
 <br />
 
-## Contact
-
-### Let's connect 🤝 <br />
-
-[![linkedin](https://img.shields.io/badge/Zuhed_Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuhedshaikh95/)
-[![GitHub](https://img.shields.io/badge/Zuhed_Shaikh-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/zuhedshaikh95)
-
-© 2023 Zuhed Shaikh
-
-## Show your support
-
-Give a ⭐️ if you like this project!
